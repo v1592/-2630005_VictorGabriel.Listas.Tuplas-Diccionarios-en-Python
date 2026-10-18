@@ -3,7 +3,6 @@
 # =============================================================================
 # Name:      VICTOR GABRIEL HERNANDEZ LUGO
 # Student ID: 263005
-# Group:     ______ (write your group here)
 # Topic:     Collections in Python: lists, tuples and dictionaries
 # GitHub:    https://github.com/v1592/2630005_VictorGabriel_strings.py
 # =============================================================================
